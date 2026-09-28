@@ -1,0 +1,9 @@
+In the nineteenth century, Charles Babbage conceptualized the Analytical Engine, laying the mathematical foundation for modern programmable computation.
+
+Decades later, Alan Turing introduced the concept of universal machines, breaking wartime ciphers and pioneering artificial intelligence.
+
+The invention of the silicon microprocessor enabled computers to shrink from room-sized mainframes into ubiquitous personal devices.
+
+Modern deep neural networks have transformed artificial intelligence, empowering systems to understand language, perception, and complex visual patterns.
+
+Today, multimodal architectures bridge text and vision, unlocking automated creative synthesis and intelligent digital storytelling.
